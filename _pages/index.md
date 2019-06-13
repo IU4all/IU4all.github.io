@@ -39,4 +39,4 @@ To kick-start this process, we invite you to identify an object that speaks to y
 - [Rebecca Wingo](http://rebeccawingo.com), Assistant Professor of History and Director of Public History at the [University of Cincinnati](https://www.uc.edu), who provided ethics guidance and organizational structure for the History Harvest during a visit to IUB.
 - The [Department of History at Indiana University](https://history.indiana.edu) for spreading the word about our History Harvest to the history community here.
 - The [History Department at the University of Nebraska-Lincoln](https://history.unl.edu) for piloting the History Harvest concept in 2010.
-- [Ed Comentale] (https://artsandhumanities.indiana.edu/about/council%20staff/Ed%20Comentale.html), Director, Arts and Humanities Council for material and intellectual support for this project. 
+- [Ed Comentale](https://artsandhumanities.indiana.edu/about/council%20staff/Ed%20Comentale.html), Director, Arts and Humanities Council for material and intellectual support for this project. 
