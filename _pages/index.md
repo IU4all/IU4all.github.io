@@ -30,7 +30,7 @@ To kick-start this process, we invite you to identify an object that speaks to y
 
 
 - [Chavonté Wright](https://sociology.indiana.edu/about/graduate-students/wright-chavonte.html), CRRES Graduate Research Assistant
-- [Maksymilian Szostalo], Institute for Digital Arts and Humanities (IDAH) Graduate Assistant
+- Maksymilian Szostalo, Institute for Digital Arts and Humanities (IDAH) Graduate Assistant
 - [Kalani Craig](https://history.indiana.edu/faculty_staff/faculty/craig_kalani.html), Co-Director, IDAH
 - [Michelle Dalmau](https://libraries.indiana.edu/michelle-dalmau), Co-Director, IDAH
 - The community and student group behind [Remembering Rondo](http://rememberingrondo.org) for the exemplar that guided us as we did our History Harvest with our own community.
