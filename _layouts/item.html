@@ -51,8 +51,7 @@ permalink: "/items"
 
 			<!-- Post Interview -->
 			
-			{% if page.interview %}<p>/assets/interviews/{{ page.itemid }}.mp3</p>{% endif %}
-			
+			{% if page.itemid %}{% capture ItemAudioPath %}/assets/interviews/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemAudioPath %}<p>/assets/interviews/{{ page.itemid }}.mp3</p>{% endif %}{% endfor %}{% endif %}
 			<!-- End Interview -->
 			
 			<!-- Post Content -->
