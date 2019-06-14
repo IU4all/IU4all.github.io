@@ -48,12 +48,6 @@ permalink: "/items"
 			{%if page.imagecredit %}{{ page.imagecredit }}{% endif %}
 			{% elsif page.itemid %}{% capture ItemImagePath %}/assets/items/{{ page.itemid }}{% endcapture %}{% for static_file in site.static_files %}{% if static_file.path contains ItemImagePath %}{% unless static_file.path contains '_th' %}<img class="featured-image img-fluid" src="{{ site.baseurl }}{{ static_file.path }}" alt="{{ page.title }}">{% endunless %}{% endif %}{% endfor %}{% endif %}
 			<!-- End Featured Image -->
-
-			<!-- Post Interview -->
-			
-			{% if page.interview %}<p>/assets/interviews/{{ page.itemid }}.mp3</p>
-			
-			<!-- End Interview -->
 			
 			<!-- Post Content -->
 			<div class="article-post">
